@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Rahul Birthday",
+      "details": "lohka fk saf af iwirueperw",
+      "category": "money",
+      "id": 1
+    },
+    {
+      "title": "Work from office",
+      "details": "lohka fk saf af iwirueperw",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "react-material-ui",
+      "details": "bsdasff jaf ajfjjjj, fj,ab mafwf afasdfsfasfsaf",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "party",
+      "details": "nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "flutter",
+      "details": "nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn\n",
+      "category": "reminder",
+      "id": 7
+    },
+    {
+      "title": "watch",
+      "details": "nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwnnvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "FF9",
+      "details": "nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn ",
+      "category": "todos",
+      "id": 9
+    },
+    {
+      "title": "project",
+      "details": "nvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn\nnvbdjfjp nfkj wpfn djflwn nvbdjfjp nfkj wpfn djflwn",
+      "category": "work",
+      "id": 10
+    }
+  ]
+}
